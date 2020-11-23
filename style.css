@@ -9,4 +9,13 @@ a {
 body {
     font-size: 14px;
     color: navy;
-}...
+}
+body {
+    font-size: 14px;
+    color: navy;
+}
+
+h1 {
+    color: #ffc;
+    background-color: #009;
+}
