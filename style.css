@@ -6,4 +6,7 @@ a {
     color: blue;
 }
 
-...
+body {
+    font-size: 14px;
+    color: navy;
+}...
